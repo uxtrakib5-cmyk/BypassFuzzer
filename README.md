@@ -177,3 +177,4 @@ You need to check for pingbacks yourself as I currently have no way of doing tha
 # TODO
 - [ ] Add HTTP/2 support
 - [ ] Looking for ideas. Ping me on twitter! @intrudir
+514500https://discord.gg/UsW8WW8pG
